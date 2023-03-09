@@ -1,4 +1,4 @@
-<img align="center"> [![MasterHead](https://www.womenintech.co.uk/wp-content/uploads/2019/05/business-analyst.jpg)](https://chengheo.io)
+<img align="center">[![MasterHead](https://www.womenintech.co.uk/wp-content/uploads/2019/05/business-analyst.jpg)](https://chengheo.io)
 <h1 align="center">Hi 👋, I'm ChengHeo</h1>
 <h3 align="center">A passionate Master's degree Business Analytics from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
