@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://chengheo.io)
+[![MasterHead]([https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif](https://cdn-images-1.medium.com/max/1600/1*A5mRQbs04WyJsnqGMJKhCg.gif))](https://chengheo.io)
 <h1 align="center">Hi 👋, I'm ChengHeo</h1>
 <h3 align="center">A passionate master's degree Business Analytics from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
