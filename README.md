@@ -1,4 +1,4 @@
-<img src="https://lh6.googleusercontent.com/proxy/W_JCKS8DM4G1j8UxF9YQJHIyYnflNd1mhNXFdh0F9GT7LeCyZVCIeoS_84clGmLBAhVShn-mOMQekjWxEcV8MDKsUfk4Ybst8dvlcD4Y8dpXyTHVlVmI2CGjIQ=w1200-h630-p-k-no-nu" width=100% height=50%>
+<img src="https://lh6.googleusercontent.com/proxy/W_JCKS8DM4G1j8UxF9YQJHIyYnflNd1mhNXFdh0F9GT7LeCyZVCIeoS_84clGmLBAhVShn-mOMQekjWxEcV8MDKsUfk4Ybst8dvlcD4Y8dpXyTHVlVmI2CGjIQ=w1200-h630-p-k-no-nu" width="400" height="200">
 <h1 align="center">Hi 👋, I'm ChengHeo</h1>
 <h3 align="center">A passionate Master's degree Business Analytics from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
