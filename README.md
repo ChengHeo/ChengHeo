@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/OIP.8t781o1avNHjhqqYYWB_ygHaEP?pid=ImgDet&rs=1" width=50% height=10%>
+<img src="https://th.bing.com/th/id/OIP.8t781o1avNHjhqqYYWB_ygHaEP?pid=ImgDet&rs=1" width=100% height=2%>
 <h1 align="center">Hi 👋, I'm ChengHeo</h1>
 <h3 align="center">A passionate Master's degree Business Analytics from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
