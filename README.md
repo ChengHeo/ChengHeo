@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=%2f671RHpt&id=CB187E8277033F3217E3E123B6AB985BF4D42B20&thid=OIP._671RHptPigS_RSia-y2nQHaC9&mediaurl=https%3a%2f%2fi.gifer.com%2fembedded%2fdownload%2fJ4v.gif&exph=200&expw=500&q=+analyst+banner+gif+animation&simid=608042480524290249&FORM=IRPRST&ck=A836E310EF399E6E28D916D842DD9EEA&selectedIndex=2&ajaxhist=0&ajaxserp=0)](https://chengheo.io)
+[![MasterHead](https://www.womenintech.co.uk/wp-content/uploads/2019/05/business-analyst.jpg)](https://chengheo.io)
 <h1 align="center">Hi 👋, I'm ChengHeo</h1>
 <h3 align="center">A passionate Master's degree Business Analytics from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
