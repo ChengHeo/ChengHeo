@@ -3,6 +3,10 @@
 <h3 align="center">A passionate Master's degree Business Analytics from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
+<h1 align="center">Hi 👋, I'm ChengHeo</h1>
+<h3 align="center">A passionate master's degree Business Analytics from Malaysia</h3>
+<img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengheo&label=Profile%20views&color=0e75b6&style=flat" alt="chengheo" /> </p>
 
 - 🌱 I’m currently learning **Master's degree in Business Analytics**
@@ -17,7 +21,7 @@
 <a href="https://kaggle.com/chengheo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chengheo" height="30" width="40" /></a>
 <a href="https://fb.com/cheng.heo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cheng.heo" height="30" width="40" /></a>
 <a href="https://instagram.com/chengheo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chengheo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chengheo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chengheo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@chengheo9276/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chengheo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
