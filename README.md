@@ -1,6 +1,6 @@
-[![MasterHead](https://cdn-images-1.medium.com/max/1600/1*A5mRQbs04WyJsnqGMJKhCg.gif)](https://chengheo.io)
+[![MasterHead](https://thumbs.gfycat.com/GentleAssuredIntermediateegret-size_restricted.gif)](https://chengheo.io)
 <h1 align="center">Hi 👋, I'm ChengHeo</h1>
-<h3 align="center">A passionate master's degree Business Analytics from Malaysia</h3>
+<h3 align="center">A passionate Master's degree Business Analytics from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chengheo&label=Profile%20views&color=0e75b6&style=flat" alt="chengheo" /> </p>
